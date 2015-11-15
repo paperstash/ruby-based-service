@@ -13,3 +13,4 @@ ONBUILD ADD config.ru /svc/config.ru
 ONBUILD ADD Gemfile /svc/Gemfile
 ONBUILD ADD Gemfile.lock /svc/Gemfile.lock
 ONBUILD ADD Rakefile /svc/Rakefile
+ONBUILD ADD VERSION /svc/VERSION
